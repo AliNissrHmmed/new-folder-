@@ -3,5 +3,9 @@ branch main1
 ADD in branch two;
 How are you;
 Hello branch main2;
+<<<<<<< HEAD
 ADD in branch master;
 ADD in branch master twce;
+=======
+branch main22222222222
+>>>>>>> main2
