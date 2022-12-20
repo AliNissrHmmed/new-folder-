@@ -1,5 +1,3 @@
-Hello Ali ;
-branch main1
 ADD in branch two;
 How are you;
 Hello branch main2;
@@ -11,5 +9,8 @@ ADD branch main3 in code
 =======
 >>>>>>> main2
 ADD branch main3 in code
+<<<<<<< HEAD
 mainmain main333333333
 >>>>>>> main3
+=======
+>>>>>>> origin/master
