@@ -1,16 +1,6 @@
-ADD in branch two;
-How are you;
 Hello branch main2;
 ADD in branch master;
 ADD in branch master twce;
-branch main22222222222
-<<<<<<< HEAD
 ADD branch main3 in code
-=======
->>>>>>> main2
 ADD branch main3 in code
-<<<<<<< HEAD
-mainmain main333333333
->>>>>>> main3
-=======
->>>>>>> origin/master
+
