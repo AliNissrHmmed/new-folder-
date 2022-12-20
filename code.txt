@@ -1,5 +1,3 @@
-Hello Ali ;
-branch main1
 ADD in branch two;
 How are you;
 Hello branch main2;
